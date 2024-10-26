@@ -1,2 +1,3 @@
 # LearningGitHub
-Just learning gitHub and commands
+Just learning gitHub and commands by Apna College
+
